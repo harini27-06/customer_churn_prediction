@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+node_modules/
+models/*.joblib
+models/model_metrics.json
+data/*.csv
+data/*.sqlite3
+data/.churnguard_session_secret
+.env
